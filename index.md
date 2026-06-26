@@ -1,4 +1,4 @@
-*[English](en/) · [Italiano](it/) · [Français](fr/) · [Português (Brasil)](pt-br/)*
+[English](en/) · [Italiano](it/) · [Français](fr/) · [Português (Brasil)](pt-br/)
 
 # Política de Privacidad de HeartRateGraph
 
