@@ -1,3 +1,5 @@
+*[English](en/) · [Italiano](it/) · [Français](fr/) · [Português (Brasil)](pt-br/)*
+
 # Política de Privacidad de HeartRateGraph
 
 **Última actualización: 25 de junio de 2026**
